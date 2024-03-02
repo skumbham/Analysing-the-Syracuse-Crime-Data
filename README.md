@@ -2,7 +2,8 @@
 
 Unraveling the Tapestry of Safety in Syracuse: I've set out to dissect and understand the city's crime data through the lens of a budding data scientist. My aim? To unveil a clearer picture of the safest havens and the areas that are hotbeds of criminal activity within Syracuse.
 
-![aidenmedia-02-03-2024-0001](https://github.com/skumbham/SyracuseCrimeAnalysis/assets/142936174/4a5eed21-fa68-444b-a907-b850ed315a95)
+![Uploading City Skyline.jpg…]()
+
 
 
 ## Unraveling the Tapestry of Safety in Syracuse:
