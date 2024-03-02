@@ -34,7 +34,7 @@ Have questions? Reach out to me here or [open an issue](https://github.com/skumb
 
 ### Acknowledgments 👏
 
-- Data Sources: Mention any organizations or datasets you've utilized.
-- Community Contributions: A shoutout to those who have contributed to the project.
+- Data Sources: Our analysis leverages the Syracuse Crime Dataset sourced directly from the Syracuse City Open Data Portal. This comprehensive dataset enables us to explore, analyze, and visualize crime trends within the city, providing a foundation for our insights and conclusions. We acknowledge and appreciate the city's commitment to data transparency and civic engagement, which facilitates informed discussions and decisions within our community.
+- Acknowledgment: We extend our heartfelt gratitude to the Syracuse Police Department for their invaluable data contributions. Their dedication to transparency and community engagement has been instrumental in the success of our SyracuseCrimeAnalysis project. Through their support, we've been able to delve deeper into the complexities of crime in Syracuse, fostering a safer and more informed community.
 
 Join us in our mission to make Syracuse's streets safer for everyone! 🌟
