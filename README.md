@@ -6,11 +6,11 @@ Unraveling the Tapestry of Safety in Syracuse: I've set out to dissect and under
 
 
 
-## Unraveling the Tapestry of Safety in Syracuse 🕵️‍♂️
+## Unraveling the Tapestry of Safety in Syracuse:
 
 In this repository, I delve deep into the crime data of Syracuse, aiming to shed light on the safest and most perilous neighborhoods. 🌐
 
-### What's Inside? 📁
+### What's Inside?
 
 - 📊 **Data Analysis Notebooks**: Jupyter notebooks containing detailed data analysis.
 - 📈 **Crime Data CSVs**: Raw data files such as `Syracuse_crime_data.csv` providing the foundation for our insights.
@@ -19,7 +19,7 @@ In this repository, I delve deep into the crime data of Syracuse, aiming to shed
 
 ### How to Navigate 🧭
 
-- Start with the [Introduction Notebook](https://github.com/skumbham/SyracuseCrimeAnalysis/link-to-notebook) for an overview.
+- Start with the [Introduction Notebook](https://github.com/skumbham/SyracuseCrimeAnalysis/blob/main/code.ipynb) for an overview.
 - Explore individual analysis notebooks to dive deeper into specific findings.
 - Check out the `data` folder for raw and processed datasets.
 
