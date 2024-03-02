@@ -5,6 +5,7 @@ Unraveling the Tapestry of Safety in Syracuse: I've set out to dissect and under
 ![Uploading syracuse-city-skyline_07-29-202116-19-28.jpg…]()
 
 
+
 ## Unraveling the Tapestry of Safety in Syracuse 🕵️‍♂️
 
 In this repository, I delve deep into the crime data of Syracuse, aiming to shed light on the safest and most perilous neighborhoods. 🌐
